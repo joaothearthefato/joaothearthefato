@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B7282E,100:1B1B1B&height=220&section=header&text=こんにちは、eu%20sou%20o%20João%20Pedro%20👋&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Desenvolvedor%20Web%20Jr.%20em%20formação%20•%20Cultura%20e%20tecnologia%20oriental&descAlignY=54&descSize=16&descColor=F5D67B" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B7282E,100:1B1B1B&height=220&section=header&text=こんにちは、eu%20sou%20o%20João%20Pedro%20👋&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Desenvolvedor%20Web%20Jr.%20em%20formação%20•%20Cultura%20e%20tecnologia%20oriental%20⛩️&descAlignY=54&descSize=16&descColor=F5D67B" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=B7282E&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Sistemas+%F0%9F%92%BB;Construindo+a+plataforma+Oyama+Hub+%F0%9F%A5%8B;Apaixonado+por+cultura+oriental+%E2%9B%A9%EF%B8%8F;Sempre+em+evolução%2C+um+passo+de+cada+vez+%F0%9F%8C%B8" alt="Typing SVG" />
-</a>
+<img src="./dojo-typing.svg" alt="Typing SVG" width="650"/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.paiva.campos2016@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/joaopedrodepaivacampos)
@@ -27,6 +25,26 @@ Fora do teclado, sou apaixonado por **cultura oriental** — japonesa, chinesa e
 ## 🎯 Objetivo
 
 Atuar como **Desenvolvedor(a) Júnior Full-stack**, aplicando o que venho estudando em projetos reais — e aprendendo cada vez mais pelo caminho.
+
+<br>
+
+## 🥋 Faixa atual
+
+> No karatê, todo mundo começa de faixa branca — inclusive os melhores. No código eu sigo o mesmo princípio: `⚪ faixa branca`, sempre disposto a aprender, testar e evoluir um kyu de cada vez.
+
+<br>
+
+## 「道場訓」 Dojo Kun do Dev
+
+<div align="center">
+
+**一** — Buscarei aprender algo novo todos os dias.
+**二** — Não temerei o erro, pois é dele que nasce o aprendizado.
+**三** — Escreverei código pensando em quem for lê-lo depois de mim.
+**四** — Treinarei com disciplina, inclusive nos dias difíceis.
+**五** — Evoluirei um commit de cada vez.
+
+</div>
 
 <br>
 
@@ -56,7 +74,7 @@ Plataforma web criada para praticantes de **Karatê Kyokushin** organizarem trei
 
 <br>
 
-## 🧩 Stack & Ferramentas
+## 🥋 Kit de Treino (Stack)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,figma,trello,ae" />
@@ -78,20 +96,16 @@ Lógica de programação • Banco de dados • Redes e IoT • Testes de softwa
 
 <br>
 
-## 📈 GitHub Stats
+## 📜 Registro de Treinos (GitHub Stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaothearthefato&show_icons=true&hide_border=true&title_color=B7282E&icon_color=F5D67B&text_color=E5E5E5&bg_color=00000000" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaothearthefato&layout=compact&hide_border=true&title_color=B7282E&text_color=E5E5E5&bg_color=00000000" width="38%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaothearthefato&hide_border=true&background=00000000&ring=B7282E&fire=F5D67B&currStreakLabel=F5D67B" width="60%"/>
-</p>
-
 <br>
 
-## 🌱 Em constante aprendizado
+## 🌱 Em busca da próxima faixa
 
 `Acessibilidade web` `Segurança (CSRF, hashing, boas práticas)` `Deploy e hospedagem` `Cultura oriental 🎌` `Metodologias ágeis`
 
@@ -109,6 +123,8 @@ Lógica de programação • Banco de dados • Redes e IoT • Testes de softwa
 <br>
 
 <i>一生懸命 — "com todo o empenho, sempre" 🌸</i>
+<br>
+<sub>押忍 — Osu! 🥋</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1B1B,100:B7282E&height=120&section=footer" width="100%"/>
 
