@@ -83,8 +83,8 @@ O **Oyama Hub** é uma plataforma web voltada para praticantes de **Karatê Kyok
 ## 📊 Minhas estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaothearthefato&show_icons=true&hide_border=true&title_color=B7282E&icon_color=F5D67B&text_color=E5E5E5&bg_color=00000000" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaothearthefato&layout=compact&hide_border=true&title_color=B7282E&text_color=E5E5E5&bg_color=00000000" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaothearthefato&show_icons=true&theme=dark&title_color=B7282E&icon_color=F5D67B&text_color=E5E5E5&bg_color=1B1B1B&border_radius=8" width="48%" alt="Estatísticas do GitHub de João Pedro"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaothearthefato&layout=compact&theme=dark&title_color=B7282E&text_color=E5E5E5&bg_color=1B1B1B&border_radius=8" width="38%" alt="Linguagens mais usadas"/>
 </p>
 
 <br>
