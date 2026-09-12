@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B7282E,100:1B1B1B&height=220&section=header&text=Fala,%20pessoal!%20Sou%20o%20João%20Pedro%20👋&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Desenvolvedor%20Web%20Jr.%20em%20formação%20•%20Jacareí/SP&descAlignY=54&descSize=15&descColor=F5D67B" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B7282E,100:1B1B1B&height=220&section=header&text=Olá,%20pessoal!%20Sou%20o%20João%20Pedro%20👋&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Desenvolvedor%20Web%20Jr.%20em%20formação%20•%20Jacareí/SP&descAlignY=54&descSize=15&descColor=F5D67B" width="100%"/>
 
 <img src="./dojo-typing.svg" alt="Typing SVG" width="650"/>
 
